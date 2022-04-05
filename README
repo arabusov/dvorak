@@ -1,7 +1,7 @@
 INSTALL
 =======
 Run su to become a superuser. Then type
-install -m 644 -o root -g root dvrk-my.xkb /usr/share/X11/xkb/symbols/dvrk-my
+install -m 644 -o root -g root dvrk-my.xkb /usr/share/X11/xkb/symbols/dedvp
 Exit superuser. Then run
-setxkbmap dvrk-my
+setxkbmap dedvp
 It should start working, unless something is wrong.

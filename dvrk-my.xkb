@@ -4,7 +4,7 @@
 // placed in locations that give good hand-alternation and finger rolling with
 // symbols that usually follows, accented characters are possible for I18N.
 partial alphanumeric_keys
-xkb_symbols "dvp-my" {
+xkb_symbols "dedvp" {
     include "de(dvorak)"
 
     name[Group1] = "German - Programmer Dvorak";
