@@ -5,9 +5,9 @@
 // symbols that usually follows, accented characters are possible for I18N.
 partial alphanumeric_keys
 xkb_symbols "dvp-my" {
-    include "us(dvorak)"
+    include "de(dvorak)"
 
-    name[Group1] = "USA - Programmer Dvorak";
+    name[Group1] = "German - Programmer Dvorak";
 
     //             Unmodified       Shift           AltGr            Shift+AltGr
     // symbols row, left side
